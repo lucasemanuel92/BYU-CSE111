@@ -1,5 +1,10 @@
 # BYU CSE-111 Repository
 
-## PT - BR
-Repositório é relativo ao curso CSE 111 - Programming with Functions. Aqui estão os exercícios passados durante o semestre. Eu não autorizo a cópia ou uso dos códigos aqui
-dispostos, caso queira tirar alguma dúvida ou comentário fico a disposição
+## Descrição / Description
+### PT-BR
+Esse repositório é relativo ao curso CSE 111 - Programming with Functions. Aqui estão os exercícios (que foram avaliados ou não) realizados durante o semestre. Abaixo estará
+uma descrição dos exercícios realizados. Eu não autorizo o uso dos exercícios aqui apresentados. Caso tenha alguma dúvida ou comentário fique a vontade para entrar em 
+contato.
+### EN
+This repository is related to the course CSE 111 - Programming with Functions. Here are the exercises (graded or not) carried out throughout the semester. Below will be
+a description of the exercises performed. I do not authorize the use of the exercises presented here. If you have any questions or comments, feel free to contact.
