@@ -11,8 +11,8 @@ a description of the exercises performed. I do not authorize the use of the exer
 
 ## Exercícios / Tasks
 ### Week 01
-01 - Heart Rate
-02 - Pendulum
-03 - Tire Volume
+01 - Heart Rate,
+02 - Pendulum,
+03 - Tire Volume,
 ### Week 02
 01 - Cone Volume
